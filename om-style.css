@@ -1,0 +1,71 @@
+@font-face{
+    font-family:PRIMETIME-PERSONAL USE ONLY;
+    src:url(PRIMETIME-PERSONAL USE ONLY.ttf)
+}
+body {
+     font: 30px PRIMETIME-PERSONAL USE ONLY;
+     line-height: 1.8;
+     color: #f5f6f7;
+ }
+ 
+ p {
+     font-size: 16px;
+ }
+ 
+ .margin {
+     margin-bottom: 45px;
+ }
+ 
+ .bg-1 {
+     background-color: #b31b00;
+     
+     color: #ffffff;
+          
+
+ }
+ 
+ .bg-2 {
+     background-color:#590080;
+     
+     color: #ffffff;
+ }
+ 
+ .bg-3 {
+     background-color: #004080;
+     
+     color: #ffffff;
+ }
+ 
+ .bg-4 {
+     background-color:#191970;
+     
+     color: #fff;
+ }
+  
+ .bg-5 {
+     background-color:#1f0a29;
+     
+     color: #fff;
+ }
+ 
+ 
+ .container-fluid {
+     padding-top: 70px;
+     padding-bottom: 70px;
+ }
+ 
+ .navbar {
+     padding-top: 15px;
+     padding-bottom: 15px;
+     border: 0;
+     border-radius: 0;
+     margin-bottom: 0;
+     font-size: 12px;
+     letter-spacing: 5px;
+ }
+ 
+ .navbar-nav li a:hover {
+     color:  #b31b00 !important;
+ }
+
+
